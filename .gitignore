@@ -1,0 +1,8 @@
+.git/
+.ipynb_checkpoints/
+data/
+logs/
+sample_output/
+sample_output-*/
+training_checkpoints/
+.DS_Store
